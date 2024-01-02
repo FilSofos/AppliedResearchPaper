@@ -9,3 +9,5 @@ The implied dataset from literature sources and MD simulations is given in excel
 
 ![image](https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/4eba9a2e-0c9a-4406-8ae7-ff5770cb589b)
 
+![image](https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/36e8035e-fcb1-43db-887e-09efce0e8629)
+

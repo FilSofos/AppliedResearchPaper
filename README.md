@@ -1,7 +1,8 @@
 # AppliedResearchPaper
 Data and codes for the AppliedResearch (Wiley) paper: 
+
 **A hybrid molecular dynamics/machine learning framework to calculate the viscosity and thermal conductivity of Ar, Kr, Xe, O and Ν**, 
-by _Christos Stavrogiannis, Vasilis Tsioulos, Filippos Sofos_ (Condensed Matter Physics Laboratory, Department of Physics, University of Thessaly, 35100 Lamia,GR).
+by _Christos Stavrogiannis, Vasilis Tsioulos, Filippos Sofos_ 
 
 Viscosity and thermal conductivity literature data is combined with newly-extracted MD simualtion data and a number of ML algorithms are trained. The MD/ML framework can be run in parallel.
 

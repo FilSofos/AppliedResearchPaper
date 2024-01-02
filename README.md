@@ -7,5 +7,5 @@ Viscosity and thermal conductivity literature data is combined with newly-extrac
 
 The implied dataset from literature sources and MD simulations is given in excel sheets. A Jupyter Notebook for the ML algorithms is provided, along with a notebook with an example LAMMPS simulation.
 
-https://github.com/FilSofos/AppliedResearchPaper/blob/main/Argon%20Thermal%20Conductivity.png
-https://github.com/FilSofos/AppliedResearchPaper/blob/main/Argon%20Viscocity.png
+![image](https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/4eba9a2e-0c9a-4406-8ae7-ff5770cb589b)
+

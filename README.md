@@ -1,6 +1,6 @@
-<img align="right" width="200" src="https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/ce691fc4-4a1b-4f87-933d-dcb73268efc9" />
+<img align="right" width="300" src="https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/ce691fc4-4a1b-4f87-933d-dcb73268efc9" />
 
-# AppliedResearchPaper
+# Applied Research Paper
 
 
 Data and codes for the AppliedResearch (Wiley) paper: 

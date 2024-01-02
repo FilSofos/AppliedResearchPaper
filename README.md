@@ -1,4 +1,5 @@
-# AppliedResearchPaper
+# AppliedResearchPaper ![image](https://github.com/FilSofos/AppliedResearchPaper/assets/149576392/ce691fc4-4a1b-4f87-933d-dcb73268efc9)
+
 Data and codes for the AppliedResearch (Wiley) paper: 
 
 **A hybrid molecular dynamics/machine learning framework to calculate the viscosity and thermal conductivity of Ar, Kr, Xe, O and Ν**, 

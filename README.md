@@ -8,6 +8,7 @@ Data and codes for the AppliedResearch (Wiley) paper:
 **A hybrid molecular dynamics/machine learning framework to calculate the viscosity and thermal conductivity of Ar, Kr, Xe, O and Ν**, 
 by _Christos Stavrogiannis, Vasilis Tsioulos, Filippos Sofos_, https://doi.org/10.1002/appl.202300127
 
+
 Viscosity and thermal conductivity literature data (from https://doi.org/10.1063/1.3253152) is combined with newly-extracted MD simulation data and a number of ML algorithms are trained. The MD/ML framework can be run in parallel. 
 
 The implied dataset from literature sources and MD simulations is given in excel sheets. A Jupyter Notebook for the ML algorithms is provided, along with a notebook with an example LAMMPS simulation.
